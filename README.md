@@ -84,4 +84,4 @@ rails s
 
 Abra o browser no endereço `http://localhost:3000`
 
-Para navegar no projeto em produção acesse [https://tour-of-heros.herokuapp.com](https://tour-of-heros.herokuapp.com/)
+Para navegar no projeto em produção acesse [https://tour-of-heroes-ror.herokuapp.com](https://tour-of-heroes-ror.herokuapp.com/)
