@@ -29,7 +29,7 @@ Esse repositório faz parte do [Curso de Ruby on Rails 6 como API](https://www.y
 
 ```bash
 # clonar o projeto
-git clone https://github.com/peimelo/tour_of_heroes.git
+git clone https://github.com/teuspersi/tour_of_heroes.git
 cd tour_of_heroes
 
 # instalar as dependências do Ruby on Rails
